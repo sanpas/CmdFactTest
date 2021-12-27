@@ -1,0 +1,10 @@
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\bin\Debug\WindowsFormsAppCmdFactTest.exe.config
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\bin\Debug\WindowsFormsAppCmdFactTest.exe
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\bin\Debug\WindowsFormsAppCmdFactTest.pdb
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.csproj.AssemblyReference.cache
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.Form1.resources
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.Properties.Resources.resources
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.csproj.GenerateResource.cache
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.csproj.CoreCompileInputs.cache
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.exe
+C:\Users\pascal.sanchez\source\repos\WindowsFormsAppCmdFactTest\WindowsFormsAppCmdFactTest\obj\Debug\WindowsFormsAppCmdFactTest.pdb
