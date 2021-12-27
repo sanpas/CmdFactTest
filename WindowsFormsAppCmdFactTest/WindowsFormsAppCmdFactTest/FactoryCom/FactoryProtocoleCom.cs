@@ -11,7 +11,7 @@ namespace WindowsFormsAppCmdFactTest.FactoryCom
     {
         public IProtocoleCommunication ProtocoleCommunication(ProtocoleCommunicationInfo protocoleCommunicationInfo)
         {
-            //Permet de construire la bonne DAL en fonction de l'ERP
+            
             switch (protocoleCommunicationInfo)
             {
                 case ProtocoleCommunicationInfo.COMA:
